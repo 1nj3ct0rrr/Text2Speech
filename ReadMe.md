@@ -13,7 +13,7 @@ In this repository you can see 3 important file:
 
   This is Ipython notebook format of the notebook (Recommended)
 
-- Text2Speech.pdf
+- Text2Speech.pdf:
 
   This is a clear print of the notebook!
 
