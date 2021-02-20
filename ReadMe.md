@@ -15,6 +15,8 @@ In this repository you can see 3 important file:
 
 - Text2Speech.pdf:
 
-  This is a clear print of the notebook!
+  This is a clear print of the notebook
 
 And you can see the [notebook live on Colab](https://colab.research.google.com/drive/1iBJmwcK_XeHHPS4Tko2mxY5JyXob8I-D?usp=sharing)
+
+To know what packages you need to install, you can go to a file and see the packages used
