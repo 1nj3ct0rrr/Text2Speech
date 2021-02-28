@@ -1,4 +1,12 @@
-# Text2Speech
+<h1>
+  Text2Speech 
+  <a href="https://colab.research.google.com/drive/1iBJmwcK_XeHHPS4Tko2mxY5JyXob8I-D?usp=sharing">
+    <img src="https://img.shields.io/badge/Colab-white?style=flat&logo=google-colab&labelColor=white">
+  </a>
+  <a href="https://repl.it/@hesamtavakoli06/Text2Speech">
+    <img src="https://img.shields.io/badge/Repl.it-gray?style=flat&logo=repl.it&labelColor=gray">
+  </a>
+</h1>
 
 By using this Python code you can turn your text into speech 🤩
 
@@ -30,4 +38,42 @@ In this repository you can see 3 types of files 🤔:
   - Time
   - Torch
   - ESPNet
-  - Argparse  
+  - Argparse
+
+## Follow
+
+<p>
+ <a href="https://repl.it/@hesamtavakoli06">
+  <img src="https://img.shields.io/badge/Repl.it-gray?style=flat&logo=repl.it&labelColor=gray">
+ </a>
+</p>
+
+<p>
+ <a href="https://github.com/1nj3ct0rrr">
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github&labelColor=gray">
+ </a>
+</p>
+
+<p>
+ <a href="https://codepen.io/1nj3ct0r">
+  <img src="https://img.shields.io/badge/CodePen-black?style=flat&logo=codepen&labelColor=black">
+ </a>
+</p>
+
+<p>
+ <a href="https://linkedin.com/in/1nj3ct0r">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+ </a>
+</p>
+
+<p>
+ <a href="https://leetcode.com/1nj3ct0r/">
+  <img src="https://img.shields.io/badge/LeetCode-white?style=flat&logo=leetcode&labelColor=white">
+ </a>
+</p>
+
+<p>
+ <a href="https://www.hackerrank.com/1nj3ct0r">
+  <img src="https://img.shields.io/badge/HackerRank-black?style=flat&logo=hackerrank&labelColor=black">
+ </a>
+</p>
