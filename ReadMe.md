@@ -25,14 +25,9 @@ In this repository you can see 3 types of files 🤔:
 
 ## Packages:
 
-  1 - Os
-  
-  2 - Sys
-  
-  6 - Time
-  
-  3 - Torch
-  
-  5 - ESPNet
-  
-  4 - Argparse
+  - Os
+  - Sys
+  - Time
+  - Torch
+  - ESPNet
+  - Argparse  
