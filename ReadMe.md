@@ -1,22 +1,38 @@
 # Text2Speech
 
-With this [Colab notebook](https://colab.research.google.com/drive/1iBJmwcK_XeHHPS4Tko2mxY5JyXob8I-D?usp=sharing) you can convert text to speech
+By using this Python code you can turn your text into speech 🤩
 
-You have to run codes line by line and then you enter a text that you want to convert it to speech
+## Demo
 
-In this repository you can see 3 important file:
+And you can also see this project in demo and online in [Google Colab](https://colab.research.google.com/drive/1iBJmwcK_XeHHPS4Tko2mxY5JyXob8I-D?usp=sharing) 🔗
+
+To run this project as a demo, you need to run all the lines one by one to see the output 🙂🙃
+
+## Files
+
+In this repository you can see 3 types of files 🤔:
 - Text2Speech.py:
 
-  This is all of python sources that used in the notebook
+  This file contains virtually all of the Python code used in Google Bolab (Mark Down's text and description inside Notebook have been commented on) 🙂🙃
 
 - Text2Speech.ipynb:
 
-  This is Ipython notebook format of the notebook (Recommended)
+  This file is actually the notebook file of this project (I myself recommend using this file in Colab or Jupyter) 🤩
 
 - Text2Speech.pdf:
 
-  This is a clear print of the notebook
+  This is a printout of the project's Colab page 😁
 
-And you can see the [notebook live on Colab](https://colab.research.google.com/drive/1iBJmwcK_XeHHPS4Tko2mxY5JyXob8I-D?usp=sharing)
+## Packages:
 
-To know what packages you need to install, you can go to a file and see the packages used
+  1 - Os
+  
+  2 - Sys
+  
+  6 - Time
+  
+  3 - Torch
+  
+  5 - ESPNet
+  
+  4 - Argparse
